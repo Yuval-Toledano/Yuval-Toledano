@@ -59,7 +59,7 @@
    <b><i>Let's Connect :coffee:</i></b>
 </p>
 <p align="center">
-   <a href="www.linkedin.com/in/yuval-toledano-9809581b1"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+   <a href="https://www.linkedin.com/in/yuval-toledano-9809581b1"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
    <a href=""mailto:yuvalt444@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
 </p>
 
