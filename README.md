@@ -1,11 +1,17 @@
-### Hi there 👋
-
 ![](top.svg)
 
 ### About Me 👩🏻‍💻
 - 🎓 I'm a 2nd year student pursing B.Sc. in Computer Science with Internet & Society excellence program from The Hebrew University of Jerusalem
 - 🤩 I have a passion for exploring new technologies and developing software solutions
 - 💻 Seeking the next programming opportunity
+<br><br>
+
+<details>
+  <summary>Some other facts about me</summary>
+  <br>
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
+  <br><br>
+</details>
 
 ### Let's Connect :coffee:
 <p align="left">
