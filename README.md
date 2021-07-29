@@ -1,63 +1,66 @@
 ![](top.svg)
 
-### About Me 👩🏻‍💻
+## About Me 👩🏻‍💻
 - 🎓 I'm a 2nd year student pursing B.Sc. in Computer Science with Internet & Society excellence program from The Hebrew University of Jerusalem
 - 🤩 I have a passion for exploring new technologies and developing software solutions
 - 💻 Seeking the next programming opportunity
 <br><br>
 
+##### MOTTO
+
+> “Knowledge is power.” – Francis Bacon
+
+<br>
+
 <details>
   <summary>Some other facts about me</summary>
-  <br><br>
 	
-  ### Tech Stack 🛠
-  #### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-  
-#### Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-</p>
+  ## Tech Stack 🛠
+  #### Languages & Tools
+	
+  <p align="left">
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30' />
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30px" />
+    <img src='https://github.com/devicons/devicon/blob/v2.12.0/icons/figma/figma-original.svg' width='30' />
+  </p>
 
-#### IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
+  #### IDEs
+  <p align="left">
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30' />
+    <img src="https://github.com/devicons/devicon/blob/v2.12.0/icons/intellij/intellij-original.svg" width="30" />
+    <img src="https://github.com/devicons/devicon/blob/v2.12.0/icons/vscode/vscode-original.svg" width="30" />
+    <img src="https://github.com/devicons/devicon/blob/v2.12.0/icons/jupyter/jupyter-original.svg" width="30" />
+  </p>
 
-### GitHub Stats ⚡
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=Yuval-Toledano&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval-Toledano&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  <br><br>
+  ## GitHub Stats ⚡	
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=Yuval-Toledano&show_icons=true&title_color=219EBC&icon_color=219EBC&hide_border=true&count_private=true)
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval-Toledano&layout=compact&langs_count=8&title_color=219EBC&hide_border=true"/>
 </details>
 
-<br><br>
+<details>
+<summary>More Repositories ...</summary>
+  <br>
+  <a href="https://github.com/kktjs/kkt">
+     <img alt="habite" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuval-Toledano&repo=Habite&show_owner=true" />
+  </a>
+</details>
 
-### Let's Connect :coffee:
-<p align="left">
-	<a href="www.linkedin.com/in/yuval-toledano-9809581b1"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href=""mailto:yuvalt444@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
+##
+
+<p align="center">
+   <b><i>Let's Connect :coffee:</i></b>
+</p>
+<p align="center">
+   <a href="www.linkedin.com/in/yuval-toledano-9809581b1"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+   <a href=""mailto:yuvalt444@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
 </p>
 
 ![](bottom.svg)
