@@ -1,7 +1,7 @@
 ![](top.svg)
 
 ## About Me 👩🏻‍💻
-- 🎓 I'm a 2nd year student pursing B.Sc. in Computer Science with Internet & Society excellence program from The Hebrew University of Jerusalem
+- Currently I am a second year student in Computer Science with Internet & Society excellence program from the Hebrew University of Jerusale 🎓 
 - 🤩 I have a passion for exploring new technologies and developing software solutions
 - 💻 Seeking the next programming opportunity
 <br><br>
