@@ -8,9 +8,10 @@
 
 <details>
   <summary>Some other facts about me</summary>
-  <br>
-	### Tech Stack 🛠
-#### Languages
+  <br><br>
+	
+  ### Tech Stack 🛠
+  #### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -46,11 +47,12 @@
 </p>
 
 ### GitHub Stats ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalcohen97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalcohen97&show_icons=true&theme=tokyonight&hide=issues)
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=Yuval-Toledano&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=Yuval-Toledano&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval-Toledano)](https://github.com/anuraghazra/github-readme-stats)
   <br><br>
 </details>
+
+<br><br>
 
 ### Let's Connect :coffee:
 <p align="left">
