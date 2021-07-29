@@ -2,10 +2,16 @@
 
 ![](headerheader.png)
 
+### About Me 👩🏻‍💻
+- 🎓 I'm a 2nd year student pursing B.Sc. in Computer Science with Internet & Society excellence program from The Hebrew University of Jerusalem
+- 🤩 I have a passion for exploring new technologies and developing software solutions
+- 💻 Seeking the next programming opportunity
 
-
-
-
+### Let's Connect :coffee:
+<p align="left">
+	<a href="www.linkedin.com/in/yuval-toledano-9809581b1"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href=""mailto:yuvalt444@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
+</p>
 
 ![](footerfooter%20(1).png)
 
