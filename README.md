@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](headerheader.png)
+![](top.svg)
 
 ### About Me 👩🏻‍💻
 - 🎓 I'm a 2nd year student pursing B.Sc. in Computer Science with Internet & Society excellence program from The Hebrew University of Jerusalem
@@ -13,7 +13,7 @@
 	<a href=""mailto:yuvalt444@gmail.com""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
 </p>
 
-![](footerfooter%20(1).png)
+![](bottom.svg)
 
 <!--
 **Yuval-Toledano/Yuval-Toledano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
